@@ -7,7 +7,7 @@ There are many ways to make web interfaces to allow interaction with Machine Lea
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| P5 | Sentiment Analysis/Public Perceiption for tweets on COVID 19|  [Read more here]() | [Check on the App]() |
+| P5 | Sentiment Analysis/Public Perceiption for tweets on COVID 19|  [Read more here](https://medium.com/@acheampongfrancis95/analyzing-public-opinion-towards-the-covid19-vaccines-using-pretrained-distilbert-model-d0979aa062aa) | [Check on the App]() |
 
 ## Project Description
 
