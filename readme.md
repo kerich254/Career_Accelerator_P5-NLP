@@ -23,7 +23,7 @@ Any feedback or comment will be really appreciated!
  Waiting for your feedbacks!🙂.
 
 ## Author
-ACHEAMPONG FRANCIS
-- [ACHEAMPONG FRANCIS](https://medium.com/@acheampongfrancis95)
+MIKE KERICH
+- [MIKE KERICH](https://medium.com/@mkibekerich14)
 ...
 
