@@ -3,24 +3,24 @@
 There are many ways to make web interfaces to allow interaction with Machine Learning models and we will cover one of them.
 
 # Introduction
-The global impact of the COVID-19 pandemic has been substantial, leading to repercussions in economies, societies, and the lives of people worldwide. A major endeavor undertaken to address this crisis has been the creation and dissemination of COVID-19 vaccines. These vaccines have demonstrated remarkable effectiveness in preventing severe illness and fatalities. However, misinformation and contentious debates have also emerged regarding their safety, efficacy, and equitable distribution.
+COVID-19 virus is a disease pandemic that claimed the lives of a lot of people. However scientists have really tried to invent vaccines against the virus. The vaccines may or may not be 100% effective to curb the virus.
+
+There has been a lot stories going on the public regarding the safety of the Covid -19 Vaccines. This has brought a lot on debate on the social media channels and one of the popular channel is Twitter. There has been major concern as a Data Scientist, to annalyze these tweets and find important insights that will guide the governments, the scientists and researchers towards discovering the best vaccines that will be safe, effective and trustful to the general public.
 
 
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| P5 | Sentiment Analysis/Public Perceiption for tweets on COVID 19|  [Read more here](https://medium.com/@acheampongfrancis95/analyzing-public-opinion-towards-the-covid19-vaccines-using-pretrained-distilbert-model-d0979aa062aa) | [Check on the App](http://127.0.0.1:7865) |
+| P5 | Sentiment Analysis/Public Perceiption for tweets on COVID 19|  [Read more here](https://medium.com/@mkibekerich14/an-analysis-on-covid-19-vaccines-opinions-made-by-public-on-twitter-social-platform-7d27db12c8d8) | [Check on the App](http://127.0.0.1:7862/) |
 
 ## Project Description
-
-To execute a sentiment analysis of COVID-19 vaccine tweets, we can leverage pre-trained models from Huggingface. These models have undergone training on vast amounts of text data and can be fine-tuned for various natural language processing (NLP) tasks, including sentiment analysis. By assembling a dataset of tweets relevant to COVID-19 vaccines, we can utilize these pre-trained models to categorize the tweets into positive, negative, or neutral sentiments.
+To achieve this, we deploy the Sentiment Analysis towards tweets on Covid-19 vaccines.By achieving this , we leverage pre-trained models from Huggingface. The models have been trained, fine-tuned using Natural Language Processing (NLP) tasks. The analysis can be used to determine wether the sentiments are : 1) Positive, 2)Neutral or 3) Negative
 
 
 ## Contributing
 
-Feel free to make a PR or report an issue 😃.
-
-Oh, one more thing, please do not forget to put a description when you make your PR 🙂.
+Any feedback or comment will be really appreciated!
+ Waiting for your feedbacks!🙂.
 
 ## Author
 ACHEAMPONG FRANCIS
