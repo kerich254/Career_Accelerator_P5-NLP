@@ -23,7 +23,7 @@ Any feedback or comment will be really appreciated!
  Waiting for your feedbacks!🙂.
 
 ## Author
-MIKE KERICH
+MIKE KIBET KERICH
 - [MIKE KERICH](https://medium.com/@mkibekerich14)
 ...
 
